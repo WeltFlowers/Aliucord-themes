@@ -1,0 +1,44 @@
+{
+    "manifest": {
+        "author": "weltflwrs || vvxltflwrs²#7833",
+        "version": "6.9",
+        "license": "hey x",
+        "name": "Crimson Moon",
+        "updater": "https:\/\/raw.githubusercontent.com\/WeltFlowers\/Crimson-moon\/main\/Crimson%20moon.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1082095860432769146\/1119259759330197586\/1686790640350.jpg",
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -11401984,
+        "accent": -6617344,
+        "mention_highlight": -1119091456,
+        "background": -15400704,
+        "background_secondary": 1040187392,
+        "statusbar": 0
+    },
+    "colors": {
+        "brand": -826802176,
+        "brand_new_500": 1071068202,
+        "uikit_settings_item_text_color_dark": -235607299,
+        "uikit_settings_item_text_color_light": 1042095647,
+        "link": -7986918,
+        "link_500": -2206131,
+        "white_500": -1,
+        "primary_dark_630": 2588365,
+        "primary_dark_600": -15400704,
+        "brand_new": -12778496
+    },
+    "drawable_tints": {
+        "ic_channel_voice": -11463664,
+        "ic_channel_announcements": -11463664,
+        "ic_channel_announcements_nsfw": -11463664,
+        "ic_channel_text": -11463664,
+        "ic_channel_announcements_16dp": -11463664,
+        "ic_channel_text_16dp": -11463664,
+        "ic_channel_voice_16dp": -11463664
+    },
+    "raws": {}
+}
