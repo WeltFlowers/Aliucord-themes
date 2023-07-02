@@ -2,8 +2,9 @@
     "manifest": {
         "author": "weltflwrs || vvxltflwrs²#7833",
         "version": "6.9",
-        "license": "hey x",
-        "name": "midnight blurple"
+        "name": "midnight blurple",
+        "updater": "https:\/\/raw.githubusercontent.com\/WeltFlowers\/Aliucord-themes\/main\/midnight%20blurple.json",
+        "license": "what?"
     },
     "background": {
         "overlay_alpha": 0,
