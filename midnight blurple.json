@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "author": "weltflwrs || vvxltflwrs²#7833",
+        "version": "6.9",
+        "license": "hey x",
+        "name": "midnight blurple"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1082095860432769146\/1119762908251947099\/1686790639629.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -15980994,
+        "accent": -15184000,
+        "mention_highlight": -1123876788,
+        "background": -16711659,
+        "background_secondary": 1040187392,
+        "statusbar": 0
+    },
+    "colors": {
+        "brand": -838859592,
+        "brand_new_500": 1060121303,
+        "uikit_settings_item_text_color_dark": -235607299,
+        "uikit_settings_item_text_color_light": 1042095647,
+        "link": -15064698,
+        "link_500": -11709730,
+        "white_500": -1,
+        "primary_dark_630": 2588365,
+        "primary_dark_600": -16711659,
+        "brand_new": -16580547
+    },
+    "drawable_tints": {
+        "ic_channel_voice": -15722927,
+        "ic_channel_announcements": -15527855,
+        "ic_channel_announcements_nsfw": -15331247,
+        "ic_channel_text": -15527855,
+        "ic_channel_announcements_16dp": -15722415,
+        "ic_channel_text_16dp": -15723439,
+        "ic_channel_voice_16dp": -15724207
+    },
+    "raws": {}
+}
