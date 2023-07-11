@@ -3,7 +3,8 @@
         "author": "weltflwrs || weltflwrs2",
         "version": "6.9",
         "name": "Wild Sunrise",
-        "license": "Enter the forest"
+        "license": "Enter the forest",
+        "updater": "https:\/\/raw.githubusercontent.com\/WeltFlowers\/Aliucord-themes\/main\/Wild%20Sunrise.json"
     },
     "background": {
         "overlay_alpha": 0,
