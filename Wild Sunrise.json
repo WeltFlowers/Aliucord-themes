@@ -1,0 +1,48 @@
+{
+    "manifest": {
+        "author": "weltflwrs || weltflwrs2",
+        "version": "6.9",
+        "name": "Wild Sunrise",
+        "license": "Enter the forest"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1125562663552954388\/1128369132199481435\/aafb8fe6c8f215adf23e2c3e89847707.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 1881188430,
+        "accent": -14636978,
+        "mention_highlight": -1119402169,
+        "background": -16643323,
+        "background_secondary": 1040187392,
+        "statusbar": 0
+    },
+    "colors": {
+        "brand": -836386727,
+        "brand_new_500": 1070452173,
+        "uikit_settings_item_text_color_dark": -11941259,
+        "uikit_settings_item_text_color_light": 1042095647,
+        "link": -14636978,
+        "link_500": -14636978,
+        "white_500": -721673,
+        "primary_dark_630": 2588365,
+        "brand_new": -15909603,
+        "primary_dark_300": -9513584,
+        "primary_dark_400": -266009,
+        "primary_dark_330": -7151444,
+        "primary_dark_600": 1056964608
+    },
+    "drawable_tints": {
+        "ic_channel_voice": -14303143,
+        "ic_channel_announcements": -14303143,
+        "ic_channel_announcements_nsfw": -14303143,
+        "ic_channel_text": -14303143,
+        "ic_channel_announcements_16dp": -14303143,
+        "ic_channel_text_16dp": -14303143,
+        "ic_channel_voice_16dp": -14303143,
+        "img_logo": -14303143,
+        "img_logo_discord": -14303143
+    },
+    "raws": {}
+}
